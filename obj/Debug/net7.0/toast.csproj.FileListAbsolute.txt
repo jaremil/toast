@@ -1,0 +1,5 @@
+/Users/jaremil/toast/obj/Debug/net7.0/toast.csproj.AssemblyReference.cache
+/Users/jaremil/toast/obj/Debug/net7.0/toast.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaremil/toast/obj/Debug/net7.0/toast.AssemblyInfoInputs.cache
+/Users/jaremil/toast/obj/Debug/net7.0/toast.AssemblyInfo.cs
+/Users/jaremil/toast/obj/Debug/net7.0/toast.csproj.CoreCompileInputs.cache
